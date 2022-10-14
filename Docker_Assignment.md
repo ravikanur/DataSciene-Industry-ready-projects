@@ -56,4 +56,19 @@
      
      
      ![docker8](https://user-images.githubusercontent.com/8469407/195263990-56e6d4cd-ed8b-412d-8efa-ed4173f266a5.PNG)
+     
+ 9. docker rm container
+ 
+      This will delete the container
+      
+      
+      ![docker9](https://user-images.githubusercontent.com/8469407/195752991-c8d12c58-40f5-4124-a6cd-94de2dc3060b.PNG)
+
+10. docker rmi image
+
+      This will delete the image
+      
+      
+      ![docker10](https://user-images.githubusercontent.com/8469407/195753135-1de2c639-475e-4b59-a201-07b21b7d86d8.PNG)
+
 
