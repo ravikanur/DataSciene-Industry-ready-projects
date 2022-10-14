@@ -94,4 +94,14 @@
       
       
       ![docker13](https://user-images.githubusercontent.com/8469407/195764793-75d7d5b8-d950-447c-b464-1e4de07cc934.PNG)
+      
+      
+### Assignment 2
+
+Point2 and Point3 in above assignment covers this.
+
+
+### Assignment 3
+
+[FastAPI Dockerhub Link](https://hub.docker.com/repository/docker/ravikanur/sample_api/general)
 
