@@ -109,5 +109,5 @@ Point2 and Point3 in above assignment covers this.
 
 [FastAPI Github link](https://github.com/ravikanur/sample_fastapi)
 
-[FastAPI Dockehub link](https://hub.docker.com/repository/docker/ravikanur/sample_fastapi)
+[FastAPI Dockehub link](https://hub.docker.com/repository/docker/ravikanur/sample_fastapi) with automated CI CD action
 
