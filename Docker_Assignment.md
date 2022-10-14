@@ -105,3 +105,9 @@ Point2 and Point3 in above assignment covers this.
 
 [FastAPI Dockerhub Link](https://hub.docker.com/repository/docker/ravikanur/sample_api/general)
 
+### Assignment 4
+
+[FastAPI Github link](https://github.com/ravikanur/sample_fastapi)
+
+[FastAPI Dockehub link](https://hub.docker.com/repository/docker/ravikanur/sample_fastapi)
+
