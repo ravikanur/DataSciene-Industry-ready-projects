@@ -72,4 +72,23 @@
       ![docker10](https://user-images.githubusercontent.com/8469407/195753293-d106bc6c-64f7-4cf6-a150-f947f66ed5fc.PNG)
 
 
+11. docker run -d "container name" -p "port" "image name"
+
+      This will run the image as container. for first time we can give container name of our own as container is not yet created and only image is created.
+      
+      
+      ![docker11](https://user-images.githubusercontent.com/8469407/195760879-d33e1215-8e33-41ba-baa6-a4955330297c.PNG)
+
+12. docker stop "container"
+
+      This will stop the specified container
+      
+      ![docker12](https://user-images.githubusercontent.com/8469407/195764517-03d5a489-12e3-4e16-9125-39ceafe54fc2.PNG)
+
+13. docker start "container"
+
+      This will start the specified container
+      
+      
+      ![docker13](https://user-images.githubusercontent.com/8469407/195764793-75d7d5b8-d950-447c-b464-1e4de07cc934.PNG)
 
