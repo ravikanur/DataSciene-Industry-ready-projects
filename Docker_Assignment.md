@@ -69,6 +69,7 @@
       This will delete the image
       
       
-      ![docker10](https://user-images.githubusercontent.com/8469407/195753135-1de2c639-475e-4b59-a201-07b21b7d86d8.PNG)
+      ![docker10](https://user-images.githubusercontent.com/8469407/195753293-d106bc6c-64f7-4cf6-a150-f947f66ed5fc.PNG)
+
 
 
