@@ -95,6 +95,14 @@
       
       ![docker13](https://user-images.githubusercontent.com/8469407/195764793-75d7d5b8-d950-447c-b464-1e4de07cc934.PNG)
       
+14. docker build -t "container name" .
+
+      This will build image from Dockerfile. This command should be run from the path where Dockerfile file is present.
+      
+      
+      <img width="599" alt="image" src="https://user-images.githubusercontent.com/8469407/233414090-eacba87b-780c-416b-a0e7-b1b7df8951fa.png">
+
+      
       
 ### Assignment 2
 
@@ -110,4 +118,6 @@ Point2 and Point3 in above assignment covers this.
 [FastAPI Github link](https://github.com/ravikanur/sample_fastapi)
 
 [FastAPI Dockehub link](https://hub.docker.com/repository/docker/ravikanur/sample_fastapi) with automated CI CD action
+
+
 
