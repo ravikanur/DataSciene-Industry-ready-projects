@@ -103,6 +103,13 @@
 15. docker commit <CONTAINER_ID> <image_name>
      
       This will build new image from the provided container.
+      
+16. docker exec -it <CONTAINER_NAME> sh
+       
+       This command will take us inside container in sh mode.
+       
+       <img width="448" alt="image" src="https://user-images.githubusercontent.com/8469407/236994091-f5d2b2c2-af39-4659-8b90-54cfeea24577.png">
+
 
       
       
